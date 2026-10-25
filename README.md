@@ -36,7 +36,7 @@
 - [改稿示例](skills/ai-to-agent-textbook-check/references/revision-examples.md)
 - [總綱範本](skills/ai-to-agent-textbook-check/assets/book-outline.md)
 - [改稿紀錄](skills/ai-to-agent-textbook-check/assets/revision-log.md)
-- [約 300 字網誌介紹](docs/blog.md)
+- [網誌介紹](docs/blog.md)
 - [驗收紀錄](docs/validation.md)
 - [發布說明](docs/release-notes.md)
 
