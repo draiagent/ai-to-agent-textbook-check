@@ -54,5 +54,4 @@
 
 技能與原創文字沿用 CC BY-NC 4.0，詳見 [LICENSE](LICENSE)。公司商標與人物肖像不因文字授權而授予獨立使用權；圖片來源及範圍見 [素材說明](assets/SOURCES.md)。
 
-AI Coach 益力康陳董 x CGM Coach 血糖教練
-2026 AI to Agent｜2027 AI to AGI Agent
+AI Coach 益力康陳董 x CGM Coach 血糖教練 | 2026 AI to Agent｜2027 AI to AGI Agent
